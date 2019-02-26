@@ -1,0 +1,44 @@
+
+
+a{
+  text-decoration: none;
+}
+table{
+  margin: auto;
+}
+th{
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+td{
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+body{
+  font-family: Nunito;
+}
+.card-header{
+  font-weight: bold;
+
+}
+.cardlink{
+  float: right;
+}
+
+.report{
+
+}
+
+.deletebutton{
+  margin-left: 20px;
+  margin-top: -30px;
+  margin-bottom: 5px;
+}
+
+.form-group{
+  widht:100%;
+}
+
+.btn{
+  margin: auto;
+}
